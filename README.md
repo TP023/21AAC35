@@ -1,2 +1,3 @@
 # 21AAC35
-Title:Eyeball controlled wheelchair
+Title: Eyeball controlled wheelchair
+Description: Body paralysis caused by severe neural conditions is one of the most complicated and dreaded things for humans. It makes the daily life of the affected person very difficult, making them unable to perform simple activities such as walking and talking like normal people.To over come that difficulty we will be designing a low cost automated chair which moves based on the position of the Eye-ball of the person. By this, the disabled person can move on  his own without any help from others.To implement this prototype we will be using raspberry pi module, camera and motors for movement of the chair.
